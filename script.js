@@ -76,9 +76,6 @@ window.addEventListener("DOMContentLoaded", () => {
   }
 });
 
-// Render quiz on load
-renderQuestions();
-
 // Do not change code below this line
 // This code will just display the questions to the screen
 const questions = [
